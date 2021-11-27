@@ -1,0 +1,15 @@
+/* about-area style */
+.about-field{
+    background-color: rgb(126, 156, 255);
+}
+.about-area{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+.course-area{
+    padding: 30px;
+}
+.support-area{
+    padding: 30px;
+}

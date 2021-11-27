@@ -1,0 +1,50 @@
+[
+  {
+    "key": "B002RL8IYK",
+    "consultants": "Cancer Surgery",
+    "name": "PROF.DR. A.F.S.A. WASEY",
+    "degree": "MBBS, DMM (Malaysia), FCPS (Microbiology) Advanced Training in Immunology",
+    "fees": 500,
+    "img": "https://www.uhlbd.com/backend/web/product_uploads/1453879917_2_Brig%20Gen%20(Retd)%20Dr.%20Prof.%20A.F.S.A_WEB.jpg"
+  },
+  {
+    "key": "B01LZ2WZGH",
+    "consultants": "Cardia Surgery",
+    "name": "PROF.DR. ZAHID MAHMUD",
+    "degree": "MBBS, FCPS",
+    "fees": 600,
+    "img": "https://www.uhlbd.com/backend/web/product_uploads/1627901858_2_1452433996_2_Brig-Gen-(Retd)-Prof.-Zahid-Mahmud.jpg"
+  },
+  {
+    "key": "B01K1IO3QW",
+    "consultants": "Dentistry",
+    "name": "DR. ANISA KHANAM",
+    "degree": "MBBS, MD(Pathology)",
+    "fees": 500,
+    "img": "https://www.uhlbd.com/backend/web/product_uploads/1627907531_2_1453879855_2_Dr%20Anisa%20Khanam.jpg"
+  },
+  {
+    "key": "B016F3M7OM",
+    "consultants": "Family Medicine",
+    "name": "DR. ALIM AKHTAR BHUIYAN",
+    "degree": "MBBS, DTM&H (UK), MD(USA) Board Certified in Neurology (USA)",
+    "fees": 500,
+    "img": "https://www.uhlbd.com/backend/web/product_uploads/1577169056_2_IMG_4692_edit.jpg"
+  },
+  {
+    "key": "B01MQ0FSS0",
+    "consultants": "General Surgery",
+    "name": "DR. AMINUL HASSAN",
+    "degree": "MBBS, D.Orth, MS(Orth), FACS",
+    "fees": 600,
+    "img": "https://www.uhlbd.com/backend/web/product_uploads/1471429013_2_Dr%20Aminul%20Hasan.jpg"
+  },
+  {
+    "key": "B01KVIN26O",
+    "consultants": "Internal Medcine",
+    "name": "DR. NAIMA SIDDIQUEE",
+    "degree": "MBBS, FCPS(Physical Medicine)",
+    "fees": 500,
+    "img": "https://www.uhlbd.com/backend/web/product_uploads/1570362189_2_IMG_4552_edit.jpg"
+  }
+]

@@ -1,0 +1,31 @@
+/* menu area style start */
+.MenuBar-container {
+    background-color: rgb(95, 131, 251);
+}
+.logo-area{
+  height: 60px;
+}
+.logo-img{
+  display: flex;
+  align-items: center;
+}
+.logo-img a{
+  color: white;
+  text-decoration: none;
+}
+.logo-img a:hover{
+  color: white;
+}
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .items:hover {
+    color: rgb(223, 200, 158);
+  }
